@@ -10999,7 +10999,7 @@ const Qd = ({ isOpen: j, closeModal: k }) => (
           se &&
             s.jsxs("div", {
               id: "top",
-              className: "anime",
+              className: "anime bg-dark",
               style: { ...I, position: "relative" },
               children: [
                 s.jsx("img", { src: lp, alt: "Loading" }),
