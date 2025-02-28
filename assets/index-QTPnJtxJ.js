@@ -9315,7 +9315,7 @@ const Qd = ({ isOpen: j, closeModal: k }) => (
     { link: "https://it-plus.jp/" },
     { link: "https://www.orangegroup.jp/" },
     { link: "https://liberty-bridge.co.jp/lp/ad-001/01/" },
-    { link: "https://kengo-react-portfolio.netlify.app/" },
+    { link: "https://kengo-masunari-portfolio.netlify.app/" },
   ],
   pf = () => {
     const j = { fontSize: "11px", lineHeight: "14px" },
@@ -10897,7 +10897,7 @@ const Qd = ({ isOpen: j, closeModal: k }) => (
             className: "py-2 py-md-3 ps-5",
             children: s.jsx("a", {
               className: "hover",
-              href: "https://kengo-react-portfolio.netlify.app/",
+              href: "https://kengo-masunari-portfolio.netlify.app/",
               children: s.jsx("img", { className: "", src: np }),
             }),
           }),
